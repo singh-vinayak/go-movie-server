@@ -5,7 +5,7 @@ import (
 	"github.com/singh-vinayak/go-movie-server/tree/mysql/pkg/config"
 )
 
-var db *gorm.db
+var db *gorm.DB
 
 type Book struct{
 	gorm.Model
