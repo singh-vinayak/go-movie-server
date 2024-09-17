@@ -5,4 +5,6 @@
 - mysql
 - mongodb
 - postgresql
-- postgresql-with-gorm
+- postgresql-with-
+
+## This branch contains code to create a CRUD application using golang and PostgreSQL. We're using gorm as the ORM here.
