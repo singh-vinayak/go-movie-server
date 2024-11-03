@@ -4,5 +4,5 @@
 
 - mysql
 - mongodb
-- postgresql
+- postgres-stocks
 - postgresql-with-gorm
